@@ -1,0 +1,35 @@
+{
+  "name": "@xrscodeworks/fac-payments-node",
+  "version": "1.0.0",
+  "description": "Helper module for integrating First Atlantic Commerce into your NodeJS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xerosai/fac-payments-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express.js",
+    "payments",
+    "fac",
+    "firstatlantic",
+    "payment-gateway",
+    "payment-integration",
+    "ecommerce"
+  ],
+  "author": "Simon Neufville <simon@xrscodeworks.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xerosai/fac-payments-node/issues"
+  },
+  "homepage": "https://github.com/xerosai/fac-payments-node#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "crypto-js": "^4.0.0",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23"
+  }
+}
